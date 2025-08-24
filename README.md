@@ -16,7 +16,7 @@ This project predicts medical insurance charges using machine learning. It invol
    - Encoding categorical variables
    - Feature scaling
     
-#   Test Linear regression Assumptions 
+@   Test Linear regression Assumptions 
 
 4. **Modeling**
    The following regression models were implemented and compared:
@@ -34,7 +34,7 @@ This project predicts medical insurance charges using machine learning. It invol
    - **Feature Importance** (from tree-based models)  
    - **SHAP values** for global and local interpretability  
 
-#Results
+### Results
 
 -Linear Regression: Provided a good baseline.
 
